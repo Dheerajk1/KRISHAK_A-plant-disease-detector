@@ -1,0 +1,1 @@
+# KRISHAK_A-plant-disease-detector
