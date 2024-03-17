@@ -14,6 +14,8 @@ Using CNN for recognization of objects, classes and categories.
 Using images dataset(taken from kagle). 
 
 # Contributors
-Dheeraj Kumar
-Premprakash Motwani
-Akshit Prajapati
+Dheeraj Kumar, 
+
+Premprakash Motwani,
+
+Akshit Prajapati.
